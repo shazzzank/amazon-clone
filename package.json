@@ -4,7 +4,8 @@
   "description": "Ecommerce Website using MERN",
   "main": "server.js",
   "scripts": {
-    "start": "npm install --prefix ./frontend && npm install && concurrently \"nodemon ./backend/server.js\" \"npm start --prefix ./frontend\""
+    "start": "node ./backend/server.js",
+    "client": "npm start --prefix frontend",
   },
   "author": "Shashank Tayal",
   "license": "ISC",
