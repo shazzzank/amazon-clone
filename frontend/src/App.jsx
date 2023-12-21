@@ -246,7 +246,7 @@ function App() {
                   element={<NewPassword/>}
                />
             </Routes>
-            {!loading && (!isAuthenticated || user && user.role !== 'admin') &&
+            {!loading && (!isAuthenticated || (user && user.role !== 'admin')) && (
                <Footer/>
             }
          </div>
