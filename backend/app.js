@@ -14,7 +14,7 @@ const app = express();
           
 //setting up config file
 if(process.env.NODE_ENV !== 'PRODUCTION'){
-  dotenv.config({path: 'backend/config/config.env'});
+  dotenv.config();
 }
 
 cloudinary.config({ 
