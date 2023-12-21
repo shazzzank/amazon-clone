@@ -1,0 +1,448 @@
+[   
+    {
+        "name": "iPhone 15",
+        "price": "799",
+        "description": "Experience the future with the iPhone 15.",
+        "ratings": 4.7,
+        "images": [
+            {
+                "public_id": "product/1701234567310",
+                "url": "https://my-unique-ecommerce-v2.s3.eu-north-1.amazonaws.com/1701234567310.jpeg"
+            },
+            {
+                "public_id": "product/1701234327891",
+                "url": "https://my-unique-ecommerce-v2.s3.eu-north-1.amazonaws.com/1701234327891.jpeg"
+            },
+            {
+                "public_id": "product/1701234562392",
+                "url": "https://my-unique-ecommerce-v2.s3.eu-north-1.amazonaws.com/1701234562392.jpeg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "GadgetHub",
+        "stock": 55,
+        "numOfReviews": 42,
+        "reviews": [
+            {
+                "user": "6541bf0ff6493954457e0024",
+                "name": "TechGuru123",
+                "rating": 4.9,
+                "comment": "The iPhone 15 is a remarkable device. It's sleek, fast, and the camera is outstanding."
+            },
+            {
+                "user": "6541bf0ff6493954457e0024",
+                "name": "AppleFanatic",
+                "rating": 4.6,
+                "comment": "I'm loving the design and the performance of the iPhone 15. It's worth the price."
+            },
+            {
+                "user": "6541bf0ff6493954457e0024",
+                "name": "MobileEnthusiast",
+                "rating": 4.8,
+                "comment": "The iPhone 15 is a top-tier smartphone with great features. Highly recommended."
+            }
+        ],
+        "user": "6541bf0ff6493954457e0024"
+    },
+    {
+        "name": "iPhone 15 Pro",
+        "price": "999",
+        "description": "Experience the future with the iPhone 15 Pro.",
+        "ratings": 4.8,
+        "images": [
+            {
+                "public_id": "product/5301234567890",
+                "url": "https://my-unique-ecommerce-v2.s3.eu-north-1.amazonaws.com/5301234567890.jpeg"
+            },
+            {
+                "public_id": "product/5321234567891",
+                "url": "https://my-unique-ecommerce-v2.s3.eu-north-1.amazonaws.com/5321234567891.jpeg"
+            },
+            {
+                "public_id": "product/5351234567892",
+                "url": "https://my-unique-ecommerce-v2.s3.eu-north-1.amazonaws.com/5351234567892.jpeg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "GadgetHub",
+        "stock": 50,
+        "numOfReviews": 45,
+        "reviews": [
+            {
+                "user": "6541bf0ff6493954457e0024",
+                "name": "TechGuru123",
+                "rating": 5,
+                "comment": "The iPhone 15 Pro is truly a game-changer. The camera quality and performance are exceptional."
+            },
+            {
+                "user": "6541bf0ff6493954457e0024",
+                "name": "AppleFanatic",
+                "rating": 4.5,
+                "comment": "I love the new design and the improved battery life. It's worth the upgrade!"
+            },
+            {
+                "user": "6541bf0ff6493954457e0024",
+                "name": "MobileEnthusiast",
+                "rating": 4.7,
+                "comment": "The iPhone 15 Pro is fast, sleek, and feature-packed. Highly recommended."
+            }
+        ],
+        "user": "6541bf0ff6493954457e0024"
+    },
+	{
+        "name": "iPhone 14 Pro Max",
+        "price": "1700",
+        "description": "Experience the ultimate with the iPhone 14 Pro Max.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "public_id": "product/1690905413665",
+                "url": "https://my-unique-ecommerce-v2.s3.eu-north-1.amazonaws.com/1690905413665.jpeg"
+            },
+            {
+                "public_id": "product/1690905418696",
+                "url": "https://my-unique-ecommerce-v2.s3.eu-north-1.amazonaws.com/1690905418696.jpeg"
+            },
+            {
+                "public_id": "product/1690905416023",
+                "url": "https://my-unique-ecommerce-v2.s3.eu-north-1.amazonaws.com/1690905416023.jpeg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "GadgetHub",
+        "stock": 45,
+        "numOfReviews": 32,
+        "reviews": [
+            {
+                "user": "6541bf0ff6493954457e0024",
+                "name": "TechJunkie99",
+                "rating": 4.3,
+                "comment": "The iPhone 14 Pro Max is a powerful device with a stunning display. It's great for multimedia and gaming."
+            },
+            {
+                "user": "6541bf0ff6493954457e0024",
+                "name": "GadgetAddict23",
+                "rating": 4.7,
+                "comment": "I'm impressed with the camera quality and overall performance of the iPhone 14 Pro Max. It's a top-tier smartphone."
+            },
+            {
+                "user": "6541bf0ff6493954457e0024",
+                "name": "MobilePro123",
+                "rating": 4.5,
+                "comment": "The iPhone 14 Pro Max is worth the premium price. It's a feature-packed device that doesn't disappoint."
+            }
+        ],
+        "user": "6541bf0ff6493954457e0024"
+    },
+    {
+        "name": "iPhone 14 Pro",
+        "price": "1577",
+        "description": "The iPhone 14 Pro offers a perfect balance of style and functionality.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "public_id": "product/1690904600328",
+                "url": "https://my-unique-ecommerce-v2.s3.eu-north-1.amazonaws.com/1690904600328.jpeg"
+            },
+            {
+                "public_id": "product/1690904603100",
+                "url": "https://my-unique-ecommerce-v2.s3.eu-north-1.amazonaws.com/1690904603100.jpeg"
+            },
+            {
+                "public_id": "product/1690904600927",
+                "url": "https://my-unique-ecommerce-v2.s3.eu-north-1.amazonaws.com/1690904600927.jpeg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "TechUniverse",
+        "stock": 60,
+        "numOfReviews": 32,
+        "reviews": [
+            {
+                "user": "6541bf0ff6493954457e0024",
+                "name": "GadgetEnthusiastX",
+                "rating": 4.4,
+                "comment": "The iPhone 14 Pro is a stylish and high-performing device. It's a great choice for tech enthusiasts."
+            },
+            {
+                "user": "6541bf0ff6493954457e0024",
+                "name": "ProPhotographer21",
+                "rating": 4.6,
+                "comment": "I'm loving the camera capabilities of the iPhone 14 Pro. It's a versatile tool for photography."
+            },
+            {
+                "user": "6541bf0ff6493954457e0024",
+                "name": "TechSavvyReviewer",
+                "rating": 4.3,
+                "comment": "The iPhone 14 Pro combines elegant design with powerful features. It's a solid smartphone."
+            }
+        ],
+        "user": "6541bf0ff6493954457e0024"
+    },
+    {
+        "name": "iPhone 14 Plus",
+        "price": "1092",
+        "description": "The iPhone 14 Plus offers affordability without compromising on features.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "public_id": "product/1690905503892",
+                "url": "https://my-unique-ecommerce-v2.s3.eu-north-1.amazonaws.com/1690905503892.jpeg"
+            },
+            {
+                "public_id": "product/1690905506349",
+                "url": "https://my-unique-ecommerce-v2.s3.eu-north-1.amazonaws.com/1690905506349.jpeg"
+            },
+            {
+                "public_id": "product/1690905513420",
+                "url": "https://my-unique-ecommerce-v2.s3.eu-north-1.amazonaws.com/1690905513420.jpeg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "GizmoGalore",
+        "stock": 40,
+        "numOfReviews": 32,
+        "reviews": [
+            {
+                "user": "6541bf0ff6493954457e0024",
+                "name": "BudgetBuyer123",
+                "rating": 4.2,
+                "comment": "The iPhone 14 Plus is a great value for money. It offers good performance without breaking the bank."
+            },
+            {
+                "user": "6541bf0ff6493954457e0024",
+                "name": "TechSaver99",
+                "rating": 4.4,
+                "comment": "I'm pleasantly surprised by the features of the iPhone 14 Plus. It's a budget-friendly gem."
+            },
+            {
+                "user": "6541bf0ff6493954457e0024",
+                "name": "SmartShopper22",
+                "rating": 4.5,
+                "comment": "For its price, the iPhone 14 Plus delivers excellent performance. It's a smart choice for budget-conscious buyers."
+            }
+        ],
+        "user": "6541bf0ff6493954457e0024"
+    },
+	{
+        "name": "iPhone 14",
+        "price": "970",
+        "description": "Experience the cutting-edge features of the iPhone 14.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "public_id": "product/1690904791859",
+                "url": "https://my-unique-ecommerce-v2.s3.eu-north-1.amazonaws.com/1690904791859.jpeg"
+            },
+            {
+                "public_id": "product/1690904796752",
+                "url": "https://my-unique-ecommerce-v2.s3.eu-north-1.amazonaws.com/1690904796752.jpeg"
+            },
+            {
+                "public_id": "product/1690904794080",
+                "url": "https://my-unique-ecommerce-v2.s3.eu-north-1.amazonaws.com/1690904794080.jpeg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "TechGlobe",
+        "stock": 75,
+        "numOfReviews": 32,
+        "reviews": [
+            {
+                "user": "6541bf0ff6493954457e0024",
+                "name": "TechEnthusiast2023",
+                "rating": 4.6,
+                "comment": "The iPhone 14 is a remarkable device with advanced technology. It's a great addition to the Apple lineup."
+            },
+            {
+                "user": "6541bf0ff6493954457e0024",
+                "name": "GadgetLoverX",
+                "rating": 4.4,
+                "comment": "I'm impressed with the performance and sleek design of the iPhone 14. It's a fantastic smartphone."
+            },
+            {
+                "user": "6541bf0ff6493954457e0024",
+                "name": "MobileGuru87",
+                "rating": 4.5,
+                "comment": "The iPhone 14 offers top-tier features and performance. It's a smart choice for tech-savvy users."
+            }
+        ],
+        "user": "6541bf0ff6493954457e0024"
+    },
+    {
+        "name": "iPhone 13",
+        "price": "849",
+        "description": "Upgrade your tech with the sleek and powerful iPhone 13.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "public_id": "product/1690904981613",
+                "url": "https://my-unique-ecommerce-v2.s3.eu-north-1.amazonaws.com/1690904981613.jpeg"
+            },
+            {
+                "public_id": "product/1690904985907",
+                "url": "https://my-unique-ecommerce-v2.s3.eu-north-1.amazonaws.com/1690904985907.jpeg"
+            },
+            {
+                "public_id": "product/1690904983775",
+                "url": "https://my-unique-ecommerce-v2.s3.eu-north-1.amazonaws.com/1690904983775.jpeg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "ElectroMart",
+        "stock": 65,
+        "numOfReviews": 32,
+        "reviews": [
+            {
+                "user": "6541bf0ff6493954457e0024",
+                "name": "TechFanatic2023",
+                "rating": 4.7,
+                "comment": "The iPhone 13 is a stylish and high-performing smartphone. It's a great choice for tech enthusiasts."
+            },
+            {
+                "user": "6541bf0ff6493954457e0024",
+                "name": "GadgetLover123",
+                "rating": 4.5,
+                "comment": "I'm impressed with the camera quality and overall performance of the iPhone 13. It's a top-tier device."
+            },
+            {
+                "user": "6541bf0ff6493954457e0024",
+                "name": "MobilePro456",
+                "rating": 4.6,
+                "comment": "The iPhone 13 offers excellent features and a sleek design. It's a smart choice for smartphone users."
+            }
+        ],
+        "user": "6541bf0ff6493954457e0024"
+    },
+    {
+        "name": "iPhone 13 Mini",
+        "price": "788",
+        "description": "Experience the compact yet powerful iPhone 13 Mini.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "public_id": "product/1690905627559",
+                "url": "https://my-unique-ecommerce-v2.s3.eu-north-1.amazonaws.com/1690905627559.jpeg"
+            },
+            {
+                "public_id": "product/1690905633965",
+                "url": "https://my-unique-ecommerce-v2.s3.eu-north-1.amazonaws.com/1690905633965.jpeg"
+            },
+            {
+                "public_id": "product/1690905630984",
+                "url": "https://my-unique-ecommerce-v2.s3.eu-north-1.amazonaws.com/1690905630984.jpeg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "GizmoTech",
+        "stock": 40,
+        "numOfReviews": 32,
+        "reviews": [
+            {
+                "user": "6541bf0ff6493954457e0024",
+                "name": "CompactTechUser",
+                "rating": 4.4,
+                "comment": "The iPhone 13 Mini is a compact powerhouse. It's perfect for those who prefer smaller phones with great performance."
+            },
+            {
+                "user": "6541bf0ff6493954457e0024",
+                "name": "GadgetEnthusiastMini",
+                "rating": 4.6,
+                "comment": "I'm loving the pocket-sized design and the impressive features of the iPhone 13 Mini. It's a great choice for on-the-go users."
+            },
+            {
+                "user": "6541bf0ff6493954457e0024",
+                "name": "MobileMiniPro",
+                "rating": 4.5,
+                "comment": "The iPhone 13 Mini offers a lot in a small package. It's a solid choice for those who value portability without sacrificing performance."
+            }
+        ],
+        "user": "6541bf0ff6493954457e0024"
+    },
+	{
+        "name": "iPhone SE",
+        "price": "606",
+        "description": "Experience the power of the compact iPhone SE.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "public_id": "product/1690905226647",
+                "url": "https://my-unique-ecommerce-v2.s3.eu-north-1.amazonaws.com/1690905226647.jpeg"
+            },
+            {
+                "public_id": "product/1690905230377",
+                "url": "https://my-unique-ecommerce-v2.s3.eu-north-1.amazonaws.com/1690905230377.jpeg"
+            },
+            {
+                "public_id": "product/1690905228329",
+                "url": "https://my-unique-ecommerce-v2.s3.eu-north-1.amazonaws.com/1690905228329.jpeg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "TechPlanet",
+        "stock": 60,
+        "numOfReviews": 32,
+        "reviews": [
+            {
+                "user": "6541bf0ff6493954457e0024",
+                "name": "CompactTechFan",
+                "rating": 4.4,
+                "comment": "The iPhone SE is a compact powerhouse. It's perfect for those who want a small phone with impressive performance."
+            },
+            {
+                "user": "6541bf0ff6493954457e0024",
+                "name": "TechEnthusiastSE",
+                "rating": 4.6,
+                "comment": "I'm amazed by the performance and compact design of the iPhone SE. It's an excellent choice for those who value simplicity and power."
+            },
+            {
+                "user": "6541bf0ff6493954457e0024",
+                "name": "MobileSEPro",
+                "rating": 4.5,
+                "comment": "The iPhone SE combines power and portability perfectly. It's a great option for those who need a reliable, compact device."
+            }
+        ],
+        "user": "6541bf0ff6493954457e0024"
+    },
+    {
+        "name": "MacBook Air",
+        "price": "1200",
+        "description": "Experience sleek and lightweight computing with the MacBook Air.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "public_id": "product/1691154203224",
+                "url": "https://my-unique-ecommerce-v2.s3.eu-north-1.amazonaws.com/1691154203224.png"
+            },
+            {
+                "public_id": "product/1691154205411",
+                "url": "https://my-unique-ecommerce-v2.s3.eu-north-1.amazonaws.com/1691154205411.png"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "ElectroGlobe",
+        "stock": 35,
+        "numOfReviews": 32,
+        "reviews": [
+            {
+                "user": "6541bf0ff6493954457e0024",
+                "name": "TechSavvy123",
+                "rating": 4.7,
+                "comment": "The MacBook Air is incredibly lightweight and powerful. It's perfect for people on the go."
+            },
+            {
+                "user": "6541bf0ff6493954457e0024",
+                "name": "DesignGuru",
+                "rating": 4.6,
+                "comment": "I appreciate the sleek design and high performance of the MacBook Air. It's a great choice for creative professionals."
+            },
+            {
+                "user": "6541bf0ff6493954457e0024",
+                "name": "TravelerTechie",
+                "rating": 4.5,
+                "comment": "The MacBook Air is the ideal travel companion. It's lightweight and delivers a superb computing experience."
+            }
+        ],
+        "user": "6541bf0ff6493954457e0024"
+    }
+]
