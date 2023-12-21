@@ -4,9 +4,9 @@
   "description": "Ecommerce Website using MERN",
   "main": "server.js",
   "scripts": {
-    "prod": "NODE_ENV=PRODUCTION nodemon backend/server",
+    "start": "NODE_ENV=PRODUCTION nodemon backend/server",
     "client": "npm start --prefix frontend",
-    "deploy": "npm install --prefix frontend && npm install && concurrently \"npm run prod\" \"npm run client\""
+    "deploy": "npm install --prefix frontend && npm install && concurrently \"npm run start\" \"npm run client\""
   },
   "author": "Shashank Tayal",
   "license": "ISC",
