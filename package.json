@@ -8,8 +8,8 @@
     "dev": "NODE_ENV=DEVELOPMENT nodemon backend/server",
     "prod": "NODE_ENV=PRODUCTION nodemon backend/server",
     "seeder": "node backend/utils/seeder.js",
-    "client": "npm start --prefix ./frontend",
-    "deploy": "concurrently \"npm run prod\" \"npm run client\" && npm install --prefix ./frontend && npm install"
+    "client": "npm start --prefix frontend",
+    "deploy": "npm install --prefix frontend && npm install && concurrently \"npm run prod\" \"npm run client\""
   },
   "author": "Shashank Tayal",
   "license": "ISC",
